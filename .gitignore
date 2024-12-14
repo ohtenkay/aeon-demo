@@ -1,5 +1,8 @@
 /target
 
+edition-2022-aeon/*
+!edition-2022-aeon/001.aeon
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 .pytest_cache/
